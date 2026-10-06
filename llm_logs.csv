@@ -1,0 +1,2 @@
+tool,model,purpose,log_link
+OpenAI Codex,GPT-6,"Assisted with generating and debugging the React and TypeScript app, implementing search, sorting, filtering and detail views, and testing and deploying the project to GitHub Pages",https://github.com/xuejunzhang2002/mp2/blob/main/llm_logs/codex_usage.md
